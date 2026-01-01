@@ -414,11 +414,6 @@ flake8 modules/ builder.py
 black modules/ builder.py
 ```
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
 
 ---
 
@@ -465,3 +460,4 @@ Special thanks to all contributors who have helped shape this project!
 [⭐ Star this repo](https://github.com/careed23/aws-secure-net) | [🐛 Report Bug](https://github.com/careed23/aws-secure-net/issues) | [💡 Request Feature](https://github.com/careed23/aws-secure-net/issues)
 
 </div>
+
