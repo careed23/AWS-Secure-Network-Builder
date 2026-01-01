@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🛡️ AWS Secure Network Builder
 
 > A Python-based automation tool utilizing Boto3 to programmatically deploy secure, compliant AWS network infrastructures with enterprise-grade security controls.
@@ -6,6 +8,7 @@
 [![AWS](https://img.shields.io/badge/AWS-Boto3-FF9900.svg)](https://aws.amazon.com/sdk-for-python/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+</div>
 ---
 
 ## 📋 Overview
@@ -460,4 +463,5 @@ Special thanks to all contributors who have helped shape this project!
 [⭐ Star this repo](https://github.com/careed23/aws-secure-net) | [🐛 Report Bug](https://github.com/careed23/aws-secure-net/issues) | [💡 Request Feature](https://github.com/careed23/aws-secure-net/issues)
 
 </div>
+
 
